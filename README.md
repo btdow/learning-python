@@ -1,1 +1,1 @@
-# learning-python
+# Learning Programming by Example with Python
